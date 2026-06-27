@@ -1,14 +1,16 @@
 # fuckxcel
-A fast, terminal-based spreadsheet written in C.
+A fast terminal-based spreadsheet written in C.
 
 ## About
 
-FUCKXCEL is a lightweight, terminal-based spreadsheet written in C.
+FUCKXCEL is a lightweight terminal-based spreadsheet written in C.
 
-A personal project focused on building a fast, terminal-based spreadsheet.
+A personal project focused on building fast terminal-based spreadsheet.
 
-> 🚧 Under active development.
+> ✏️ Under development...
 
-Still a work in progress but getting better with every update.
+Just getting started, so expect things to change as the project grows.
+
 ---
-If you like to see where it's headed, consider checking back after a little while. ☕
+
+This is my first repository. feel free to check back and see how it grows. ☕
